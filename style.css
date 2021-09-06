@@ -1,0 +1,74 @@
+#q-1 {
+    font-weight: bold;
+    font-family: cursive;
+    text-decoration-color: blue;
+font-size: 25px;
+}
+
+#q-2 {
+    font-weight: bold;
+    font-family: cursive;
+    text-decoration-color: red;
+    font-size: 25px;
+}
+
+#q-3 {
+    font-weight: bold;
+    font-family: cursive;
+    text-decoration-color: darkorange;
+    font-size: 25px;
+}
+
+#q-1-p {
+    font-weight: bold;
+    font-family: fantasy;
+    text-decoration-color: darkgoldenrod
+        
+}
+
+#q-2-p {
+    font-weight: bold;
+    font-family: fantasy;
+    text-decoration-color: darkgoldenrod
+}
+
+#q-3-p {
+    font-weight: bold;
+    font-family: fantasy;
+    text-decoration-color: darkgoldenrod
+}
+
+#c {
+    width: 1000;
+    height: 600px;
+}
+
+
+#th {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#thi {
+    width: 900px;
+    height: 500px
+}
+
+#t-2 {
+    font-weight: bold;
+    font-family: cursive;
+}
+
+body {
+
+    text-align: center;
+    background-image: image()
+}
+
+#mf {font-weight: bold;
+    font-family: cursive;
+font-size: 25px;}
+
+#mf-1{font-weight: bold;
+    font-family: cursive;
+font-size: 50px}
